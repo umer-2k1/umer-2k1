@@ -59,14 +59,14 @@
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,materialui" />
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,electron,redux,tailwind,materialui" />
   </a>
 </p>
 
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" /> 
+    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,flask,scikitlearn" /> 
   </a>
 </p>
 
