@@ -39,7 +39,7 @@
 
 - 🌱 I’m currently learning **ML**
 
-- 👨‍💻 All of my projects are available at [https://umer-portfoliohub.netlify.app/](https://umer-portfoliohub.netlify.app/)
+- 👨‍💻 Explore my projects—all available at my [portfolio](https://umer-portfoliohub.netlify.app/)
 
 - 💬 Ask me about **React, Next, NodeJS, Nest and React Native**
 
