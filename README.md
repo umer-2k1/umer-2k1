@@ -8,7 +8,7 @@
   <!--<img src="https://img.shields.io/badge/Languages-JavaScript | Typescript | Node | React -blue.svg" alt="umermemon's languages" /> -->
   <!--<br/>-->
 
- <img src="https://komarev.com/ghpvc/?username=supuna9&label=Profile%20views&color=0e75b6&style=flat" alt="umermemon" /> 
+ <img src="https://komarev.com/ghpvc/?username=umermemon4648&label=Profile%20views&color=0e75b6&style=flat" alt="umermemon" /> 
  <br/>
 
   <!--<img alt="Profile followers" src="https://img.shields.io/github/followers/umermemon4648"> -->
@@ -70,17 +70,17 @@
   </a>
 </p>
 
-<!--- Database-->
-<!--<p align="left">-->
-<!--  <a href="https://skillicons.dev">-->
-<!--    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />-->
-<!--  </a>-->
-<!--</p>-->
+- Database
+<p align="left">-->
+ <a href="https://skillicons.dev">
+   <img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
+ </a>
+</p>
 
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vscode,postman,linux" />
+    <img src="https://skillicons.dev/icons?i=git,github,npm,docker,aws,vscode,pycharm,postman,linux" />
   </a>
 </p>
 
@@ -106,8 +106,8 @@
 
 <!--<h3 align="left">Activity:</h3>-->
 
-<!--![Supuna97's Graph](https://github-readme-activity-graph.vercel.app/graph?username=umermemon4648&custom_title=Umer's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)-->
-<!--<br><br>-->
+![Umers's Graph](https://github-readme-activity-graph.vercel.app/graph?username=umermemon4648&custom_title=Umer's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+<br><br>
 
 <!--<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">-->
 
