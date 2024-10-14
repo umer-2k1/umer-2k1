@@ -8,10 +8,10 @@
   <!--<img src="https://img.shields.io/badge/Languages-JavaScript | Typescript | Node | React -blue.svg" alt="umermemon's languages" /> -->
   <!--<br/>-->
 
- <img src="https://komarev.com/ghpvc/?username=umermemon4648&label=Profile%20views&color=0e75b6&style=flat" alt="umermemon" /> 
+ <img src="https://komarev.com/ghpvc/?username=umer-2k1&label=Profile%20views&color=0e75b6&style=flat" alt="umermemon" /> 
  <br/>
 
-  <!--<img alt="Profile followers" src="https://img.shields.io/github/followers/umermemon4648"> -->
+  <!--<img alt="Profile followers" src="https://img.shields.io/github/followers/umer-2k1"> -->
 
 </p>
 
@@ -89,15 +89,15 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <!--<div  align="center">-->
-<!--<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=umermemon4648&show_icons=true&locale=en&theme=one_dark_pro" alt="umermemon4648" /></p>-->
+<!--<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=umer-2k1&show_icons=true&locale=en&theme=one_dark_pro" alt="umer-2k1" /></p>-->
 <!--<div/>-->
 
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umer-2001&theme=one_dark_pro&hide_border=true" alt="umer-2001" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umer-2k1&theme=one_dark_pro&hide_border=true" alt="umer-2k1" /></p>
 <div/>
 
 <!--<div align="center">-->
-<!--<img src="https://github-readme-stats.vercel.app/api/top-langs?username=umermemon4648&show_icons=true&locale=en&layout=compact&theme=one_dark_pro" alt="umermemon4648" />-->
+<!--<img src="https://github-readme-stats.vercel.app/api/top-langs?username=umer-2k1&show_icons=true&locale=en&layout=compact&theme=one_dark_pro" alt="umer-2k1" />-->
 <!--<div/>-->
 
 <br><br>
@@ -106,7 +106,7 @@
 
 <!--<h3 align="left">Activity:</h3>-->
 
-<!-- ![Umers's Graph](https://github-readme-activity-graph.vercel.app/graph?username=umermemon4648&custom_title=Umer's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+<!-- ![Umers's Graph](https://github-readme-activity-graph.vercel.app/graph?username=umer-2k1&custom_title=Umer's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 <br><br> -->
 
 <!--<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">-->
