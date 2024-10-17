@@ -8,7 +8,7 @@
   <!--<img src="https://img.shields.io/badge/Languages-JavaScript | Typescript | Node | React -blue.svg" alt="umermemon's languages" /> -->
   <!--<br/>-->
 
- <img src="https://komarev.com/ghpvc/?username=umer-2k1&label=Profile%20views&color=0e75b6&style=flat" alt="umermemon" /> 
+ <img src="https://komarev.com/ghpvc/?username=umermemon4648&label=Profile%20views&color=0e75b6&style=flat" alt="umermemon" /> 
  <br/>
 
   <!--<img alt="Profile followers" src="https://img.shields.io/github/followers/umer-2k1"> -->
@@ -66,7 +66,7 @@
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,flask,scikitlearn" /> 
+    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,flask" /> 
   </a>
 </p>
 
