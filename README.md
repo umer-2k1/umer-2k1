@@ -87,18 +87,11 @@
 <br/>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<!--<div  align="center">-->
-<!--<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=umer-2k1&show_icons=true&locale=en&theme=one_dark_pro" alt="umer-2k1" /></p>-->
-<!--<div/>-->
+ 
 
 <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umer-2k1&theme=one_dark_pro&hide_border=true" alt="umer-2k1" /></p>
-<div/>
-
-<!--<div align="center">-->
-<!--<img src="https://github-readme-stats.vercel.app/api/top-langs?username=umer-2k1&show_icons=true&locale=en&layout=compact&theme=one_dark_pro" alt="umer-2k1" />-->
-<!--<div/>-->
+<div/> 
 
 <br><br>
 
@@ -112,7 +105,4 @@
 <!--<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">-->
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-
-<!--<br>-->
-<!--<p align="right" > Created with 🧡 by <a href="https://umer-portfoliohub.netlify.app">Umer</a></p>-->
-<!--<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">-->
+ 
