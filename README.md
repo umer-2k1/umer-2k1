@@ -39,7 +39,7 @@
 
 - 🌱 I’m currently learning **Ai**
 
-- 👨‍💻 Explore my projects—all available at my <a href="https://umer2k1-dev.netlify.app/" target="_blank">Portfolio</a>
+- 👨‍💻 Explore my projects—all available at my <a href="https://umer2k1.com/" target="_blank">Portfolio</a>
 
 - 💬 Ask me about **React, Next, NodeJS, Nest and React Native**
 
