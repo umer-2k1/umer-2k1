@@ -25,7 +25,7 @@
 
 <br>
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 12px;">
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
