@@ -15,25 +15,27 @@
 
 </p>
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 16px; flex-wrap: nowrap;">
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
- <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="50" height="50" />
+
+<div style="display: flex; justify-content: center; align-items: center; gap: 16px; flex-wrap: nowrap; width: 100%;">
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/redux-icon.svg" width="50" height="50" />
 </div>
 
-<br>
+<br />
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 12px;">
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
-  <!--<img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />-->
+<div style="display: flex; justify-content: center; align-items: center; gap: 12px; flex-wrap: nowrap; width: 100%;">
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="50" height="50" />
 </div>
 
+
+ 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
 
